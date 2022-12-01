@@ -1,0 +1,14 @@
+{
+  "name": "QR Address Thingy",
+  "description": "Displays a QR code for the address of the current tab",
+  "version": "1.0",
+  "version_name": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "QR Thingy",
+    "default_popup": "popup.html"
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApRrdSIMucDOxgzTe6aJQYQKsvr/E+CarqBemXfjPCRkrkeqOqyWLIx7DU9HR4IavDsv3cToYm6Nrr8WQsluG5tGm5K8ZKYZLReKL6zT8/Zs9SDvCcdHHe4DDbUGYqGkNC+/3zR6VD+Nn3jbC8+vLECfaiuA8lrvuSg2QUCAncwXESTyAe3noFA8w2XgqOSj1sbYGRwCF27ZndqXPJnGziErV5s0Q0likkEWRJ6JqaWgWnTbGw8D/wastViX4KXi4iMETv8t6s45BJSk3qqaigketSjM4tzsuUQDc/NBaRO3lKHvAXE4k9o4ytpgV8xxB3svussyw4x4u2YV82nAr/wIDAQAB"
+}
